@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    background:#138ebba0;
+    text-align:center;
+}
+
+.container{
+    background:rgb(142, 103, 221);
+    width:350px;
+    margin:120px auto;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+input{
+    padding:8px;
+    width:80%;
+}
+
+button{
+    padding:10px 20px;
+    background:#2885a7;
+    color:white;
+    border:none;
+    border-radius:5px;
+}
+
+table{
+    margin:auto;
+    margin-top:30px;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid black;
+    padding:10px;
+}
